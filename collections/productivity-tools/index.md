@@ -13,7 +13,7 @@ items:
  - awaescher/RepoZ
  - sharkdp/fd
  - BurntSushi/ripgrep
- - stedolan/jq
+ - jqlang/jq
  - alacritty/alacritty
  - ajeetdsouza/zoxide
  - Slackadays/Clipboard
@@ -21,4 +21,4 @@ items:
 display_name: Software productivity tools
 created_by: holman
 ---
-Build software faster with fewer headaches, using these tools and tricks
+Build software faster with fewer headaches, using these tools and tricks.
